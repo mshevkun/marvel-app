@@ -51,16 +51,16 @@ Originally, the application used the official Marvel API, but due to recent limi
 🔧 Installation & Setup
 To run the project locally, follow these steps:
 
-# Clone the repository
+- Clone the repository
 git clone https://github.com/mshevkun/marvel-app.git
 
-# Navigate to the project directory
+- Navigate to the project directory
 cd marvel-app
 
-# Install dependencies
+- Install dependencies
 npm install
 
-# Start the development server
+- Start the development server
 npm start
 The app will run at http://localhost:3000 🚀
 
@@ -70,7 +70,11 @@ The app will run at http://localhost:3000 🚀
 This project is hosted on GitHub Pages. To deploy it, run:
 
 npm run deploy
-The app will be available at:
+
+--
+
+
+🌎 The app will be available at:
 
 🔗 https://mshevkun.github.io/marvel-app
 
