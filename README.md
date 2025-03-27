@@ -43,6 +43,11 @@ Marvel API – Fetching real-time superhero data.
 
 --
 
+⚠️ API Update
+Originally, the application used the official Marvel API, but due to recent limitations and instability of that service, the project was updated to use a different API to simulate data and preserve functionality. All features continue to work as expected using the new data source.
+
+--
+
 🔧 Installation & Setup
 To run the project locally, follow these steps:
 
