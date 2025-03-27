@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+Marvel app 🦸‍♂️⚡
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Welcome to Marvel app, a React-based application that allows you to explore the Marvel Universe! 🚀
 
-In the project directory, you can run:
+With this app, you can browse Marvel characters, check out their comics, and dive deep into their legendary stories – all thanks to the Marvel API.
 
-### `yarn start`
+--
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🌟 Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+✔ Browse Marvel Characters – Get details about your favorite superheroes and villains.
 
-### `yarn test`
+✔ Comics Database – View comics related to each character.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✔ Dynamic Routing – Click on a character to see more details.
 
-### `yarn build`
+✔ Lazy Loading & Suspense – Smooth loading experience.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+✔ Custom Hooks & State Management – Built with React Hooks, useReducer, and Context API for optimal performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✔ Styled Components & Animations – Enjoy a sleek, modern UI with CSS animations.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✔ 404 Page – Oops! Even superheroes get lost sometimes.
 
-### `yarn eject`
+--
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+🛠 Tech Stack
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React.js – The core framework.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+React Router – For seamless navigation.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+React Hooks – Efficient state management.
 
-## Learn More
+Formik + Yup – Form validation for user-friendly interactions.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React Helmet – SEO optimization.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+SCSS – Clean and modular styling.
 
-### Code Splitting
+Marvel API – Fetching real-time superhero data.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+--
 
-### Analyzing the Bundle Size
+🔧 Installation & Setup
+To run the project locally, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Clone the repository
+git clone https://github.com/mshevkun/marvel-app.git
 
-### Making a Progressive Web App
+# Navigate to the project directory
+cd marvel-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Install dependencies
+npm install
 
-### Advanced Configuration
+# Start the development server
+npm start
+The app will run at http://localhost:3000 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+--
 
-### Deployment
+🚀 Deploying on GitHub Pages
+This project is hosted on GitHub Pages. To deploy it, run:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+npm run deploy
+The app will be available at:
 
-### `yarn build` fails to minify
+🔗 https://mshevkun.github.io/marvel-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+--
+
+⚡ API Used
+
+This project uses the Marvel API to fetch real-time data about characters and comics.
+You’ll need to sign up for an API key if you want to modify API requests.
+
+--
+
+👨‍💻 Author
+
+Created with 💙 by Maks Shevkun.
+
+Feel free to contribute or leave a ⭐ on the repo if you like it!
+
+🦸‍♂️ Excelsior! True Believers!
